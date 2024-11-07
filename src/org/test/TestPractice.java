@@ -8,7 +8,8 @@ public class TestPractice {
 		System.out.println("changes made by QA");
 
 		System.out.println("Changes made by Dev");
-
+		
+		System.out.println("fineshed by QA");
 		
 	}
 	
